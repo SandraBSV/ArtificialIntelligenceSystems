@@ -1,0 +1,79 @@
+{
+  "project": "Used Car Price Prediction",
+  "dataset": "Car_Price_Prediction.csv",
+  "dataset_rows": 1000,
+  "train_rows": 700,
+  "validation_rows": 150,
+  "test_rows": 150,
+  "target": "price",
+  "categorical_columns": [
+    "brand",
+    "model",
+    "fuel_type",
+    "transmission"
+  ],
+  "numeric_columns": [
+    "year",
+    "engine_size",
+    "mileage"
+  ],
+  "feature_columns": [
+    "brand",
+    "model",
+    "fuel_type",
+    "transmission",
+    "year",
+    "engine_size",
+    "mileage"
+  ],
+  "model_files": {
+    "Linear Regression": "linear_regression.joblib",
+    "Decision Tree Regressor": "decision_tree.joblib",
+    "Random Forest Regressor": "random_forest.joblib"
+  },
+  "categories": {
+    "brand": [
+      "Audi",
+      "BMW",
+      "Ford",
+      "Honda",
+      "Toyota"
+    ],
+    "model": [
+      "Model A",
+      "Model B",
+      "Model C",
+      "Model D",
+      "Model E"
+    ],
+    "fuel_type": [
+      "Diesel",
+      "Electric",
+      "Petrol"
+    ],
+    "transmission": [
+      "Automatic",
+      "Manual"
+    ]
+  },
+  "numeric_ranges": {
+    "year": {
+      "min": 2000.0,
+      "max": 2021.0
+    },
+    "engine_size": {
+      "min": 1.0,
+      "max": 4.5
+    },
+    "mileage": {
+      "min": 56.0,
+      "max": 199867.0
+    }
+  },
+  "price_range": {
+    "min": 6704.953523986209,
+    "max": 41780.5046353258,
+    "mean": 25136.61553045166,
+    "median": 25189.325247317312
+  }
+}
