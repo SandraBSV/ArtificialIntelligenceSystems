@@ -1,0 +1,22 @@
+time,route,class,days_left,current_price,predicted_price,delta_percent,ai_recommendation,user_decision
+2026-09-17 14:42:37,Delhi-Mumbai,Economy,25,5200.0,5654.49,-8.04,MARKET_FAIR_PRICE,ПІДТВЕРДЖЕНО
+2026-09-17 14:42:38,Delhi-Mumbai,Economy,25,5200.0,5654.49,-8.04,MARKET_FAIR_PRICE,МОНІТОРИНГ
+2026-09-17 14:42:40,Delhi-Mumbai,Economy,25,5200.0,5654.49,-8.04,MARKET_FAIR_PRICE,ВІДХИЛЕНО
+2026-09-17 14:42:41,Delhi-Mumbai,Economy,25,5200.0,5654.49,-8.04,MARKET_FAIR_PRICE,ПІДТВЕРДЖЕНО
+2026-09-17 14:42:41,Delhi-Mumbai,Economy,25,5200.0,5654.49,-8.04,MARKET_FAIR_PRICE,МОНІТОРИНГ
+2026-09-17 14:42:41,Delhi-Mumbai,Economy,25,5200.0,5654.49,-8.04,MARKET_FAIR_PRICE,ВІДХИЛЕНО
+2026-09-17 14:55:00,Model A,27934.63,22000.0,-21.24,0.95,BUY_NOW,ПІДТВЕРДЖЕНО,Toyota,Petrol,Automatic,2018.0,2.0,85000.0
+2026-09-17 14:55:03,Model A,27934.63,22000.0,-21.24,0.95,BUY_NOW,МОНІТОРИНГ,Toyota,Petrol,Automatic,2018.0,2.0,85000.0
+2026-09-17 14:55:03,Model A,27934.63,22000.0,-21.24,0.95,BUY_NOW,ВІДХИЛЕНО,Toyota,Petrol,Automatic,2018.0,2.0,85000.0
+2026-09-17 14:55:05,Model A,27934.63,22000.0,-21.24,0.95,BUY_NOW,МОНІТОРИНГ,Toyota,Petrol,Automatic,2018.0,2.0,85000.0
+2026-09-17 14:55:10,Model A,25884.69,22000.0,-15.01,0.95,BUY_NOW,МОНІТОРИНГ,Toyota,Petrol,Automatic,2014.0,2.0,85000.0
+2026-09-17 14:55:13,Model A,25884.69,22000.0,-15.01,0.95,BUY_NOW,ВІДХИЛЕНО,Toyota,Petrol,Automatic,2014.0,2.0,85000.0
+2026-09-17 15:03:27,Model A,27934.63,22000.0,-21.24,0.95,BUY_NOW,ПІДТВЕРДЖЕНО,Toyota,Petrol,Automatic,2018.0,2.0,85000.0
+2026-09-17 15:03:31,Model A,27934.63,22000.0,-21.24,0.95,BUY_NOW,МОНІТОРИНГ,Toyota,Petrol,Automatic,2018.0,2.0,85000.0
+2026-09-17 15:03:32,Model A,27934.63,22000.0,-21.24,0.95,BUY_NOW,ВІДХИЛЕНО,Toyota,Petrol,Automatic,2018.0,2.0,85000.0
+2026-09-17 15:03:32,Model A,27934.63,22000.0,-21.24,0.95,BUY_NOW,ПІДТВЕРДЖЕНО,Toyota,Petrol,Automatic,2018.0,2.0,85000.0
+2026-09-17 15:37:31,Model A,27934.63,22000.0,-21.24,0.95,BUY_NOW,ПІДТВЕРДЖЕНО,Toyota,Petrol,Automatic,2018.0,2.0,85000.0
+2026-09-17 15:43:25,Model A,27934.63,22000.0,-21.24,0.95,BUY_NOW,ПІДТВЕРДЖЕНО,Toyota,Petrol,Automatic,2018.0,2.0,85000.0
+2026-09-17 15:43:26,Model A,27934.63,22000.0,-21.24,0.95,BUY_NOW,МОНІТОРИНГ,Toyota,Petrol,Automatic,2018.0,2.0,85000.0
+2026-09-17 15:43:27,Model A,27934.63,22000.0,-21.24,0.95,BUY_NOW,ВІДХИЛЕНО,Toyota,Petrol,Automatic,2018.0,2.0,85000.0
+2026-09-17 15:43:27,Model A,27934.63,22000.0,-21.24,0.95,BUY_NOW,ПІДТВЕРДЖЕНО,Toyota,Petrol,Automatic,2018.0,2.0,85000.0
